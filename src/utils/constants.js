@@ -1,0 +1,3 @@
+export const HEADER_LOGO = 'https://ik.imagekit.io/acrrubsd0/Untitled%20design.png';
+export const MENU_API = 'https://proxy.corsfix.com/?https://www.swiggy.com/mapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=17.374576568417947&lng=78.42981364578007&restaurantId=';
+export const RESTAURANT_LIST_API = 'https://proxy.corsfix.com/?https://www.swiggy.com/dapi/restaurants/list/v5?lat=17.3615636&lng=78.4746645&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING';
